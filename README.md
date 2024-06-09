@@ -13,12 +13,6 @@ The project integrates confidential Aadhar data into Qlik's platform for preproc
 ## Problem Understanding
 Aadhaar Card, a 12-digit unique identification number issued by UIDAI, serves as the foundation for a universal identity infrastructure in India. This project uses Qlik Sense to conduct a thorough analysis of Aadhar data, aiming to derive actionable insights for decision-making, policy formulation, and operational efficiency within the National Identity Authority.
 
-## Business Requirements
-The research is expected to provide significant insights into customer profiles, authentication trends, and compliance metrics. The focus is on developing interactive dashboards that are visually appealing and facilitate strategic planning and operational improvement.
-
-## Literature Survey
-A literature survey on Aadhar analysis involves researching previous studies, articles, and reports related to the subject. This includes exploring academic databases and government publications to understand recent developments in Aadhar analysis.
-
 ## Social and Business Impact
 
 - **Demographic Distribution Analysis**:
@@ -41,6 +35,10 @@ A literature survey on Aadhar analysis involves researching previous studies, ar
   - Assess the effect of Aadhar on reducing fraud and improving customer verification processes.
   - Analyze how businesses leverage Aadhar for customer onboarding and service delivery.
   - Study the operational efficiency gains in sectors utilizing Aadhar authentication.
+  - 
+## Data Updates and Field Renaming
+Several calculated fields have been updated in the dataset to enhance the accuracy and relevance of the analysis. Additionally, some fields have been renamed for better clarity and consistency. For detailed information on these changes, please refer to the report uploaded above.
+For further details, please refer to the project documentation and analysis reports included in this repository.
 
 ## Data Collection & Extraction
 Data is systematically collected to answer research questions, test hypotheses, evaluate outcomes, and generate insights. The dataset is downloaded from the provided link and contains meta information regarding various attributes such as Registrar, Enrolment Agency, State, District, and more.
