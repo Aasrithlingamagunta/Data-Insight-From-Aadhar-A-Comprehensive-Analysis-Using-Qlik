@@ -49,7 +49,7 @@ Data is systematically collected to answer research questions, test hypotheses, 
 Data preparation involves cleaning, transforming, integrating, and engineering data to ensure accuracy, completeness, and relevance for analysis. This includes removing duplicates, standardizing formats, creating derived variables, and conducting exploratory data analysis (EDA).
 
 ## Conclusion
-The project represents a significant advancement in utilizing Aadhar data for impactful decision-making and future planning. It aims to optimize the social and economic effects of the Highly Secured Aadhar architecture through extensive analysis using Qlik Sense.
+This project uses Qlik Sense to efficiently analyze and visualize Aadhaar data, offering valuable insights that aid in policy-making. The findings can improve social welfare programs and evaluate Aadhaar's role in preventing fraud, laying the groundwork for future data-driven initiatives.
 
 ## Dataset
 The data for this project can be downloaded from the following link:  
