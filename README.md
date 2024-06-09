@@ -13,28 +13,12 @@ The project integrates confidential Aadhar data into Qlik's platform for preproc
 ## Problem Understanding
 Aadhaar Card, a 12-digit unique identification number issued by UIDAI, serves as the foundation for a universal identity infrastructure in India. This project uses Qlik Sense to conduct a thorough analysis of Aadhar data, aiming to derive actionable insights for decision-making, policy formulation, and operational efficiency within the National Identity Authority.
 
-## Social and Business Impact
+## Explanation Recording
 
-- **Demographic Distribution Analysis**:
-  - Examine the age, gender, and geographic distribution of Aadhar users.
-  - Identify regional variations and demographic trends.
+A recording explaining the project in detail has been uploaded. You can view it here.
+[explanation](https://drive.google.com/file/d/1eOC_DPX00_1CrWi8gbjH1TMDBdnvPju-/view?usp=drive_link).
 
-- **Impact on Social Welfare Programs**:
-  - Assess how Aadhar data helps in targeting and delivering social welfare benefits.
-  - Analyze the effectiveness of welfare programs based on Aadhar authentication.
-
-- **Financial Inclusion**:
-  - Evaluate the role of Aadhar in promoting financial inclusion.
-  - Correlate Aadhar enrollment with access to banking and financial services.
-
-- **Socioeconomic Indicators**:
-  - Investigate the correlation between Aadhar data and socioeconomic indicators like education, income, and employment.
-  - Use Aadhar data to identify areas needing policy intervention.
-
-- **Business Impact**:
-  - Assess the effect of Aadhar on reducing fraud and improving customer verification processes.
-  - Analyze how businesses leverage Aadhar for customer onboarding and service delivery.
-  - Study the operational efficiency gains in sectors utilizing Aadhar authentication.
+For further details, please refer to the project documentation and analysis reports included in this repository.
   - 
 ## Data Updates and Field Renaming
 Several calculated fields have been updated in the dataset to enhance the accuracy and relevance of the analysis. Additionally, some fields have been renamed for better clarity and consistency. For detailed information on these changes, please refer to the report uploaded above.
